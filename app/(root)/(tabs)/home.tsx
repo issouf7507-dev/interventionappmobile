@@ -244,6 +244,7 @@ const Home = () => {
                 {interventions.filter((i) => i.status === "Terminée").length}
               </Text>
               <Text className="text-gray-600 text-xs">Terminées</Text>
+              {/* iny  */}
             </View>
           </View>
         </View>
